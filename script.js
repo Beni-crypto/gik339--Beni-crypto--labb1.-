@@ -76,7 +76,8 @@ console.log("Efter funktionen:", name);
 Reflektion uppgift 4:
 1. En funktionsdeklaration kan anropas både innan och efter att den definieras i programmet. Funktionsuttryck och pilar-funktioner kan endast anropas efter att de har gjorts.
 2. Parametern "name" används blott inom funktionen, medan variabeln "name" utanför är fristående.
-3. Ett argument är värdet som skickas in (till exempel "Adam"), en parameter är platsen i funktionen som tar emot värdet, och en variabel är något du själv kan skapa och justera i din kod.
+3. Ett argument är värdet som skickas in (till exempel "Obiwan"), en parameter är platsen i funktionen som tar emot värdet, och en variabel är något du själv kan skapa och justera i din kod.
 4. Jag valde funktionsdeklaration eftersom den är mest tydlig för denna uppgift.
 */
+
 
